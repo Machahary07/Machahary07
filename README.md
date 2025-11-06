@@ -1,73 +1,105 @@
-# 💫 About Me
+<!-- Header -->
+<h1 align="center">👋 Hey, I'm <strong>Jeu Machahary</strong></h1>
+<h3 align="center">Designer • Developer • Anime Enthusiast</h3>
 
-🔭 **I’m currently working on:**  
-Building creative, interactive, and animated web experiences as a **freelance designer & developer**.
+<br />
 
-👯 **I’m looking to collaborate on:**  
-Product design & full-stack web projects.
+<!-- Short Intro -->
+<p align="center">
+  Passionate about crafting aesthetic, interactive, and meaningful digital experiences.<br />
+  Product Designer • UI/UX • Frontend • Web Animations • Creative Dev
+</p>
 
-🌱 **I’m currently learning:**  
-**GSAP** & **Web Animations** for advanced UI motion effects.
+---
 
-💬 **Ask me about:**  
-JavaScript, Graphic Design, and Product Design.
+## 🔮 About Me
 
-⚡ **Fun fact:**  
-I love anime — it inspires my design style 🌀
+✨ **Currently working on**  
+Interactive, animated web experiences & freelance product design projects.
 
-🎓 **Education:**  
-B.Tech CSE — 2nd Year
+🤝 **Looking to collaborate on**  
+Product design, UI/UX, design systems, and creative frontend builds.
 
+📚 **Currently learning**  
+GSAP, Web Animations API, and advanced motion design principles.
+
+💬 **Ask me about**  
+JavaScript • UI/UX • Graphic Design • Product Thinking • Web Animations
+
+🎓 **Education**  
+BTech CSE — 2nd Year
+
+🎭 **Fun fact**  
+Anime fuels my creativity — my design style has subtle anime energy 🎨⚡
 
 ---
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__natsu.css___/)  
-[![Twitter (X)](https://img.shields.io/badge/X-000000.svg?logo=X&logoColor=white)](https://x.com/nats_tzy)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeumachahary)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/Machahary07)
-
+<p align="center">
+  <a href="https://www.instagram.com/__natsu.css___/">
+    <img src="https://img.shields.io/badge/Instagram-FC466B?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/nats_tzy">
+    <img src="https://img.shields.io/badge/Twitter (X)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jeumachahary">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Machahary07">
+    <img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-# 💻 Tech Stack
+# 🎨 Tech Stack
 
-### 🎨 Design & UI/UX
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF.svg?style=for-the-badge&logo=framer&logoColor=white)
-![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
+## 🖌️ **Design & Creative Tools**
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" />
+</p>
 
-### 💻 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Deno Fresh](https://img.shields.io/badge/Deno_Fresh-000000?style=for-the-badge&logo=deno&logoColor=white)
+## 💻 **Frontend Development**
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E96228?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-2862E9?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deno%20Fresh-ffffff?style=for-the-badge&logo=deno&logoColor=black" />
+</p>
 
-### ⚙️ Backend & Tools
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
+## ⚙️ **Backend & Tools**
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-0064A5?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-10AA50?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Machahary07&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Machahary07&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Machahary07&theme=tokyonight&hide_border=false&layout=compact)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Machahary07&theme=radical&hide_border=false" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Machahary07&theme=radical&hide_border=false" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machahary07&layout=compact&theme=radical&hide_border=false" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Machahary07&icon=0&color=6)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Machahary07&icon=0&color=9" />
+</p>
