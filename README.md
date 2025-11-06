@@ -12,28 +12,6 @@
 
 ---
 
-## 🔮 About Me
-
-✨ **Currently working on**  
-Interactive, animated web experiences & freelance product design projects.
-
-🤝 **Looking to collaborate on**  
-Product design, UI/UX, design systems, and creative frontend builds.
-
-📚 **Currently learning**  
-GSAP, Web Animations API, and advanced motion design principles.
-
-💬 **Ask me about**  
-JavaScript • UI/UX • Graphic Design • Product Thinking • Web Animations
-
-🎓 **Education**  
-BTech CSE — 2nd Year
-
-🎭 **Fun fact**  
-Anime fuels my creativity — my design style has subtle anime energy 🎨⚡
-
----
-
 ## 🌐 Socials
 
 <p align="center">
