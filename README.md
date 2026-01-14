@@ -66,18 +66,12 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Machahary07&theme=radical&hide_border=false" />
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Machahary07" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Machahary07&theme=radical&hide_border=false" />
+  <img src="https://stats.dooboo.io/api/github-streak?login=Machahary07" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Machahary07&layout=compact&theme=radical&hide_border=false" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Machahary07&icon=0&color=9" />
+  <img src="https://stats.dooboo.io/api/github-top-langs?login=Machahary07" />
 </p>
