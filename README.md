@@ -71,7 +71,7 @@
 <p align="center">
   <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Machahary07" />
   <br />
-  <img src="https://stats.dooboo.io/api/github-streak?login=Machahary07" />
+  <img src="https://streak-stats.demolab.com?user=Machahary07&theme=radical" />
   <br />
   <img src="https://stats.dooboo.io/api/github-top-langs?login=Machahary07" />
 </p>
