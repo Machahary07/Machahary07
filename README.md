@@ -68,10 +68,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Machahary07" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=Machahary07&theme=radical" />
-  <br />
-  <img src="https://stats.dooboo.io/api/github-top-langs?login=Machahary07" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Machahary07&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Machahary07&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Machahary07&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Machahary07&theme=radical&utcOffset=5.5)
