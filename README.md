@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">👋 Hey, I'm <strong>Jeu Machahary</strong></h1>
+<h1 align="center"> Hey, I'm <strong>Jeu Machahary</strong></h1>
 <h3 align="center">Designer • Developer • Anime Enthusiast</h3>
 
 <br />
@@ -12,7 +12,7 @@
 
 ---
 
-## 🌐 Socials
+## Socials
 
 <p align="center">
   <a href="https://www.instagram.com/__natsu.css___/">
@@ -31,7 +31,7 @@
 
 ---
 
-# 🎨 Tech Stack
+# Tech Stack
 
 ## 🖌️ **Design & Creative Tools**
 <p align="center">
@@ -41,7 +41,7 @@
   <!-- <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" /> -->
 </p>
 
-## 💻 **Frontend Development**
+## **Frontend Development**
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E96228?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-2862E9?style=for-the-badge&logo=css3&logoColor=white" />
@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=000000" />
 </p>
 
-## ⚙️ **Backend & Tools**
+## **Backend & Tools**
 <p align="center">
   <img src="https://img.shields.io/badge/Render-0468D7?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -66,15 +66,3 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Machahary07&theme=radical)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Machahary07&theme=radical)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Machahary07&theme=radical)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Machahary07&theme=radical&utcOffset=5.5)
